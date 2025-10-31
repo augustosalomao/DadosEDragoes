@@ -31,7 +31,7 @@ Um editor de código ou IDE compatível com C#
 
 Clone ou baixe o projeto:
 
-git clone https://github.com/seuusuario/dados-e-dragoes.git
+git clone https://github.com/augustosalmoao/DadosEDragoes.git
 
 
 Abra o terminal no diretório do projeto e execute:
